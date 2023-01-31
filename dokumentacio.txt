@@ -1,0 +1,5 @@
+Tartalomjegyzék
+
+1. Osztályhierarchia megtervezése
+2. UML Diagramok létrehozása
+3. Implementáció
