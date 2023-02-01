@@ -5,3 +5,5 @@ Tartalomjegyzék
 3. Implementáció
 4. Unit tesztek készítése
 Felhasználói kézkikönyv készítése
+
+módosítás
