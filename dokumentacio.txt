@@ -4,6 +4,8 @@ Tartalomjegyzék
 2. UML Diagramok létrehozása
 3. Implementáció
 4. Unit tesztek készítése
+<<<<<<< HEAD
 Felhasználói kézkikönyv készítése
 
-módosítás
+módosítás (mellékág mód. törölve)
+
