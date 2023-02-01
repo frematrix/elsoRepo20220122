@@ -9,3 +9,5 @@ Felhasználói kézkikönyv készítése
 
 módosítás (mellékág mód. törölve)
 
+6. A rendszer termelésbe helyezése
+
