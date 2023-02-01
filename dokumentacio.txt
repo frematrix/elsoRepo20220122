@@ -11,3 +11,4 @@ módosítás (mellékág mód. törölve)
 
 6. A rendszer termelésbe helyezése
 
+// szerver oldali változás
