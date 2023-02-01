@@ -1,1 +1,3 @@
-A rendszer hierarchiája
+A rendszer hierarchiája:
+
+Ősosztály meghatározása
